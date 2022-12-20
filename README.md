@@ -16,3 +16,7 @@
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=cyan&show_icons=true" />
   
 </p>
+
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-31&langs_count=8)](https://github.com/sanidhya-31/github-readme-stats)
+</p>
