@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-31&langs_count=8)](https://github.com/sanidhya-31/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-31&langs_count=8)(https://github.com/sanidhya-31/github-readme-stats)
 </p>
