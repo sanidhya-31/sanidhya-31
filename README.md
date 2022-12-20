@@ -39,7 +39,7 @@ A 4th-year student pursuing Bachelors in Computer science engineering, from RUAS
 
 <p align="center">
   
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=cyan&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=tokyonight&show_icons=true" />
   
 </p>
 
