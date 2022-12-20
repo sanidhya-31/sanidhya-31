@@ -10,5 +10,9 @@
 
 
 </p>
----
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=radical&show_icons=true" />
+
+<p align="center">
+  
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=tokyonight&show_icons=true" />
+  
+</p>
