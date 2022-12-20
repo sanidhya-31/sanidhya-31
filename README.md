@@ -18,5 +18,6 @@
 </p>
 
 <p align="center">
-(https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-31&langs_count=8)(https://github.com/sanidhya-31/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-31&langs_count=8" />
+<img src="https://github.com/sanidhya-31/github-readme-stats" />
 </p>
