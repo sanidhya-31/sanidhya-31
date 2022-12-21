@@ -32,14 +32,14 @@ A 4th-year student pursuing Bachelors in Computer science engineering, from RUAS
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhya-31&theme=green&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhya-31&theme=chartreuse-dark&hide_border=true">
 
 
 </p>
 
 <p align="center">
   
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=green&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sanidhya-31&count_private=true&theme=chartreuse-dark&show_icons=true" />
   
 </p>
 
