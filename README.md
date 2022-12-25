@@ -43,6 +43,6 @@ A 4th-year student pursuing Bachelors in Computer science engineering, from RUAS
   
 </p>  
 
-<p align="center">
+<p align="center">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-31&langs_count=8" />
 </p>
