@@ -29,7 +29,7 @@ A 4th-year student pursuing Bachelors in Computer science engineering, from RUAS
 </p>
 
 <h1>My Github Stats </h1>
-
+   
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhya-31&theme=chartreuse-dark&hide_border=true">
